@@ -59,3 +59,9 @@ Limitations:
 ## Future Applications
 - Develop a real-time draft assistance tool integrated with live NFL data.
 - Extend the model to support other fantasy sports, such as basketball or baseball.
+
+## Contributors
+- David Doan
+- Jonah Lessuk
+- Dillan Hong
+- Aneesh Harwalkar
