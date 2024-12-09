@@ -47,7 +47,7 @@ A demo tool showcases the model's capabilities. Users can input NFL player stati
 ### Files
 - `FantasyFootballDemo.ipynb`: Interactive notebook with a demo of the model.
 - `Random_Forest.pkl`: Saved Random Forest model.
-- `Fantasy_Football_Stats.csv`: Preprocessed dataset used for training and testing.
+- `fantasy_merged_7_17.csv`: Preprocessed dataset used for training and testing.
 - `FantasyFootball.ipynb`: Full implementation of model training, evaluation, and preprocessing.
 ## Results
 Key Findings:
